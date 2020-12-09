@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Times New Roman');
+
+/* html,body{
+background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-family: 'Times New Roman', sans-serif;
+} */
+.main   
+{
+    background: #eee;
+}
+
+.regt{
+    /*color: rgb(72, 138, 224);*/
+    color: #d9534f;
+    font-weight: bolder;
+}
+
+.Login-component {
+    background: url() no-repeat center center fixed;
+    background-size: cover;
+  
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+
+.explore_btn1 {
+	padding: 14px 28px;
+	/*background: red;*/
+	/*background: #3498db;*/
+	background-color: #DE3242;
+	border-radius: 12px;
+    color: #fff;
+    width: 150px;
+	transition: all 0.3s linear;
+	font-weight: bold;
+	font-size: 15px;
+	border: none;
+}
+
+
+.explore_btn1:hover{
+	background-color: #C12937;
+}
+
+.container{
+height: 100%;
+
+align-content: center;
+}
+.account-pages {
+    padding: 10px 20px;
+  }
+
+.card{
+min-height: 400px;
+margin-bottom: auto;
+width: 100%;
+background-color: #ffffff !important;
+}
+
+.card-header{
+    min-height:10px;
+    font-size:5px;
+    background-color: #ffffff !important;
+    font-family: 'Times New Roman', sans-serif;
+    height:auto;
+    display: inline-block;
+}
+
+.Logo {
+   position: left;
+  }
